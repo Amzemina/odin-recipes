@@ -1,2 +1,4 @@
-# odin-recipes
-Odin Project 1 - learning the basics
+# Odin recipes
+
+# Description
+Odin Project 1 - Created a simple html page with multiple recipe links 
